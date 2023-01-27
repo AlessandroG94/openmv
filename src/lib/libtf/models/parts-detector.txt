@@ -1,2 +1,3 @@
-background
-face
+Metal_Clip
+Plastic_Clip
+Unknown
